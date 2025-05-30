@@ -1,0 +1,22 @@
+# _config.yml
+
+title: "R to Python: A Practical Translation Guide"
+author: "John Huang"
+# logo: images/logo.png  # Optional, include only if you have one
+
+repository:
+  url: https://github.com/yourusername/r-to-python
+  path_to_book: book
+  branch: gh-pages
+  provider: github
+
+#launch_buttons:
+#  colab_url: "https://colab.research.google.com"
+#  binderhub_url: "https://mybinder.org"
+#  notebook_interface: "jupyterlab"
+#  thebe: true  # Makes cells executable in-browser
+
+html:
+  # favicon: images/favicon.ico  # Optional
+  use_issues_button: true
+  use_repository_button: true

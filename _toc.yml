@@ -1,0 +1,9 @@
+# _toc.yml
+
+format: jb-book
+root: intro
+
+chapters:
+  - file: lesson-01/01-importing-data
+  # - file: lesson-02/02-data-manipulation
+  # - file: lesson-03/03-visualization

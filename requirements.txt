@@ -1,0 +1,7 @@
+jupyter-book
+pandas
+openpyxl        # for Excel files
+matplotlib
+seaborn
+numpy
+jupyterlab

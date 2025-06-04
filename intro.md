@@ -4,7 +4,7 @@ This book is a practical guide for R users learning Python, organized by tasks s
 
 Each chapter walks through the equivalent Python syntax and libraries for common R workflows.
 
-📌 Start with Lesson 1: [Importing Data](lesson-01/01-importing-data.ipynb)
+📌 Start with Lesson 1: [Importing Data](lesson-01/01_Importing_Data.ipynb)
 
 ---
 

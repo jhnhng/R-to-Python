@@ -25,7 +25,7 @@ Each lesson includes:
 
 ## 🚀 View the Book
 
-> 📚 Visit the full site here: [https://jhnhng.github.io/r-to-python](https://jhnhng.github.io/r-to-python)
+> 📚 Visit the full site here: [https://jhnhng.github.io/R-to-Python](https://jhnhng.github.io/R-to-Python)
 
 Use the navigation menu to explore each topic and follow along.
 
